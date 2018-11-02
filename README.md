@@ -1,3 +1,3 @@
 # Roteiros-LEDA
 
-Roteiros da disciplina do 3° período "Laboratório de Estrutura de Dados e Algoritmos"
+Roteiros realizados durante a disciplina do 3° período "Laboratório de Estrutura de Dados e Algoritmos"
