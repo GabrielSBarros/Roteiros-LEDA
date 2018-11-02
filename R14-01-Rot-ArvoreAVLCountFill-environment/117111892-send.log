@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-07-10T01:28:03.983-0300</date>
+  <logger>GABRIEL DE SOUSA BARROS</logger>
+  <level>FINE</level>
+  <message>File 117111892-GABRIEL DE SOUSA BARROS.zip was received. It was sent by GABRIEL DE SOUSA BARROS from IP 192.168.0.13</message>
+</record>
